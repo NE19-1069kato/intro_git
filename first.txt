@@ -1,2 +1,5 @@
 git 練習
 基本的なワークフロー
+・git add
+・git　commit
+・git　git rm
